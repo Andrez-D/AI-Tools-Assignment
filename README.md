@@ -1,7 +1,8 @@
 
 # AI Tools Assignment - Mastering the AI Toolkit 🛠️🧠
 ## Report
-[Download the project documentation](C:\Users\rutoa\Downloads\Documents\# AI Tools Assignment Report.pdf)
+[Download the project documentation]([# AI Tools Assignment Report.pdf](https://github.com/user-attachments/files/22993448/AI.Tools.Assignment.Report.pdf)
+)
 
 ## Project Structure
 ```
