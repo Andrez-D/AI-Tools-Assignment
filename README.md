@@ -1,4 +1,8 @@
+
 # AI Tools Assignment - Mastering the AI Toolkit 🛠️🧠
+## Report
+[Download the project documentation]([# AI Tools Assignment Report.pdf](https://github.com/user-attachments/files/22993448/AI.Tools.Assignment.Report.pdf)
+)
 
 ## Project Structure
 ```
@@ -33,7 +37,6 @@ ai-tools-assignment/
 └── report/
     └── AI_Tools_Assignment_Report.pdf
 ```
-
 
 ## Prerequisites
 
@@ -309,9 +312,3 @@ MIT License - Feel free to use this code for educational purposes.
 - Course Instructor and TAs
 - Open-source AI community
 - Dataset providers on Kaggle
-
----
-
-**Good luck with your submission! 🚀**
-
-For questions, use #AIToolsAssignment on the LMS Community.
