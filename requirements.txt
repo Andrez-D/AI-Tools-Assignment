@@ -1,0 +1,43 @@
+# Core Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Deep Learning
+tensorflow>=2.13.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Natural Language Processing
+spacy>=3.5.0
+nltk>=3.8.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.15.0
+
+# Web Frameworks (for Bonus)
+streamlit>=1.25.0
+flask>=2.3.0
+
+# Utilities
+pillow>=9.0.0
+requests>=2.28.0
+tqdm>=4.65.0
+
+# Visualization
+plotly>=5.14.0
+
+# Model Evaluation
+scikit-plot>=0.3.7
+
+# For exporting to PDF
+nbconvert>=7.0.0
+
+# Data Download
+kaggle>=1.5.0
